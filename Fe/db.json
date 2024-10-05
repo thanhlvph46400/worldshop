@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "thanheqwe",
+      "price": 123,
+      "available": true,
+      "type": "type1",
+      "category": "idCategory2",
+      "imageUrl": "https://res.cloudinary.com/dp0sdchpp/image/upload/v1727684845/dtqp40vv58vnndbbop4z.jpg",
+      "id": 1
+    },
+    {
+      "name": "anhthanhdeptrai",
+      "price": 444,
+      "available": true,
+      "type": "type2",
+      "category": "idCategory3",
+      "imageUrl": "https://res.cloudinary.com/dp0sdchpp/image/upload/v1727684865/fuf3egjf0qopmxux4hdq.png",
+      "id": 2
+    }
+  ],
+  "users": []
+}
